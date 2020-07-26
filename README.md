@@ -1,6 +1,6 @@
 # kubernates
 
-### Reference Documentation for need of basic application to deploy in kube
+### Reference Documentation for needs of basic application to deploy in kube
 For further reference, please consider the following sections:
 
 * [Kubernetes](https://kubernetes.io/)
